@@ -1,0 +1,17 @@
+[0414/141836:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start (0)
+[0414/141836:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'style-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start (0)
+[0414/141836:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start (0)
+[0414/230311:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0415/105503:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (0x2740)
+[0415/105503:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0415/110025:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start (0)
+[0415/110025:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'style-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start (0)
+[0415/110025:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start (0)
+[0415/152637:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (0x2740)
+[0415/152637:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0415/152932:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start (0)
+[0415/152932:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'style-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start (0)
+[0415/152932:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start (0)

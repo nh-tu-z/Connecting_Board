@@ -1,0 +1,12 @@
+Added Component: Designator=R?(tro smd 0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005468"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 1% 1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetTB_P2_20 Pin=R?-1
+Added Pin To Net: NetName=3V3_RS485 Pin=R?-2
+Change Net Name : Old Net Name=NetTB_P2_20 New Net Name=NetR?_1
+Added Member To Class: ClassName=Sch_pinout_board Member=Component R? 0R

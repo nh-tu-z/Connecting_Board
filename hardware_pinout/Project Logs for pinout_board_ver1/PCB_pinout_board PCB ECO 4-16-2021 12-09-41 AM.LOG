@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=NetIC1_1 Pin=IC1-1
+Removed Pin From Net: NetName=NetIC1_2 Pin=IC1-2
+Removed Pin From Net: NetName=NetIC1_2 Pin=IC1-3
+Removed Pin From Net: NetName=NetIC1_4 Pin=IC1-4
+Removed Pin From Net: NetName=GND Pin=IC1-5
+Removed Pin From Net: NetName=A Pin=IC1-6
+Removed Pin From Net: NetName=B Pin=IC1-7
+Removed Pin From Net: NetName=VDD Pin=IC1-8
+Removed Pin From Net: NetName=NetIC1_1 Pin=JP1-3
+Removed Member From Class: ClassName=Sch_pinout_board Member=IC1
+Change Component Comment : Designator= Old Comment=24LC256-I/SN New Comment=24C256
+Change Component Designator: OldDesignator= NewDesignator=IC1
+Added Component: Designator=IC2(DIL08)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "MAX485CSA+TCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/maxim-integrated/MAX485CSA-T/MAX485CSA-TCT-ND/3894816?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MAX485"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MAX485/Maxim%20Integrated/view-part/493689/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC1_2 Pin=IC2-1
+Added Pin To Net: NetName=NetIC1_1 Pin=IC2-2
+Added Pin To Net: NetName=NetIC1_1 Pin=IC2-3
+Added Pin To Net: NetName=NetIC1_4 Pin=IC2-4
+Added Pin To Net: NetName=GND Pin=IC2-5
+Added Pin To Net: NetName=A Pin=IC2-6
+Added Pin To Net: NetName=B Pin=IC2-7
+Added Pin To Net: NetName=VDD Pin=IC2-8
+Added Pin To Net: NetName=NetIC1_2 Pin=JP1-3
+Change Net Name : Old Net Name=Net_1 New Net Name=NetIC1_1
+Change Net Name : Old Net Name=Net_2 New Net Name=NetIC1_2
+Change Net Name : Old Net Name=Net_3 New Net Name=NetIC1_3
+Change Net Name : Old Net Name=Net_5 New Net Name=NetIC1_5
+Change Net Name : Old Net Name=Net_6 New Net Name=NetIC1_6
+Change Net Name : Old Net Name=Net_7 New Net Name=NetIC1_7
+Change Net Name : Old Net Name=NetIC1_1 New Net Name=NetIC2_2
+Change Net Name : Old Net Name=NetIC1_2 New Net Name=NetIC2_1
+Change Net Name : Old Net Name=NetIC1_4 New Net Name=NetIC2_4
+Added Member To Class: ClassName=Sch_pinout_board Member=Component IC2 MAX485

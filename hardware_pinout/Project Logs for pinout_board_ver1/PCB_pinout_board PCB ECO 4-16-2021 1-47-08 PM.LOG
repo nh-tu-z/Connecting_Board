@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetJP3_4 Pin=JP3-4
+Removed Pin From Net: NetName=VDD Pin=JP3-6
+Removed Pin From Net: NetName=GND Pin=JP3-7
+Removed Pin From Net: NetName=NetJP3_3 Pin=TB-P1_14
+Removed Pin From Net: NetName=NetJP3_10 Pin=TB-P1_15
+Removed Pin From Net: NetName=NetJP3_8 Pin=TB-P1_17
+Removed Pin From Net: NetName=NetJP3_9 Pin=TB-P1_18
+Removed Pin From Net: NetName=NetJP3_2 Pin=TB-P1_21
+Removed Pin From Net: NetName=NetJP3_1 Pin=TB-P1_22
+Added Pin To Net: NetName=GND Pin=JP3-4
+Added Pin To Net: NetName=VDD Pin=JP3-5
+Added Pin To Net: NetName=NetJP3_4 Pin=JP3-7
+Added Pin To Net: NetName=NetJP3_8 Pin=TB-P1_14
+Added Pin To Net: NetName=NetJP3_1 Pin=TB-P1_15
+Added Pin To Net: NetName=NetJP3_3 Pin=TB-P1_17
+Added Pin To Net: NetName=NetJP3_2 Pin=TB-P1_18
+Added Pin To Net: NetName=NetJP3_10 Pin=TB-P1_21
+Added Pin To Net: NetName=NetJP3_9 Pin=TB-P1_22
+Change Net Name : Old Net Name=NetJP3_4 New Net Name=NetJP3_7

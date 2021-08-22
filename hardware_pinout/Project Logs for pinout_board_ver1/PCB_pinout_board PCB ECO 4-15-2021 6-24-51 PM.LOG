@@ -1,0 +1,6 @@
+Added Component: Designator=JACK DC?(JACK DC 5.5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sch_pinout_board Member=Component JACK DC? JACK DC 5.5
+Added Member To Class: ClassName=Sch_pinout_board Member=Component TB STM32F4DISCOVERY
+Added Room: Name=Sch_pinout_board

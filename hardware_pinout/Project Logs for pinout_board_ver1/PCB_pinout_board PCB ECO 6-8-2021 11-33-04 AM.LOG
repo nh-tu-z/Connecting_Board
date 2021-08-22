@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetJP50_1 Pin=JP50-1
+Removed Pin From Net: NetName=NetJP50_2 Pin=JP50-2
+Removed Pin From Net: NetName=GND Pin=JP50-3
+Removed Pin From Net: NetName=VDD Pin=JP50-4
+Added Pin To Net: NetName=GND Pin=JP50-1
+Added Pin To Net: NetName=VDD Pin=JP50-2
+Added Pin To Net: NetName=NetJP50_1 Pin=JP50-3
+Added Pin To Net: NetName=NetJP50_2 Pin=JP50-4
+Change Net Name : Old Net Name=NetJP50_1 New Net Name=NetJP50_3
+Change Net Name : Old Net Name=NetJP50_2 New Net Name=NetJP50_4

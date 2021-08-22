@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\Downloads\data\202\lv\hardware\pinout_board_ver1\PCB_pinout_board.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_pinout_board-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_pinout_board-slotholes.txt|DrillLayers=gtl,gbl
